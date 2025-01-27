@@ -2,7 +2,7 @@ module Main where
 
 main =
     do
-    print (myFunc1 5)
+    print (myFunc1 5)   --cant name function with capital at start or integer (eg Myfun1 or 1myFun)
     print (myFunc2 10)
     print (myFunc3)
 
